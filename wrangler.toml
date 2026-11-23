@@ -1,0 +1,7 @@
+name = "loreal-routine-builder"
+main = "worker/index.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+OPENAI_MODEL = "gpt-4.1"
+ALLOWED_ORIGIN = "http://localhost:5500,http://127.0.0.1:5500"
